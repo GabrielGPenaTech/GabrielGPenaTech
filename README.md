@@ -5,7 +5,7 @@
 Me chamo Gabriel Pena, tenho 28 anos e sou natural de Recife-PE. Desenvolvedor com mais de 5 anos de experiência, já trabalhei para empresa e como freelancer. Experiente no desenvolvimento com React, Next, Node.js, JavaScript, CSS, Tailwind e HTML. Experiência também com Kotlin e uma ampla gama de projetos usando diversas linguagens. Atualmente, estou cursando Segurança da Informação.
 
 ---
-Este perfil é novo, acabei perdendo o acesso ao anterior, mas ele ainda está visivel caso queira ver outros projetos meus [antigo Perfil](https://github.com/GabrielGPena793)
+Este perfil é novo, acabei perdendo o acesso ao anterior, mas ele ainda está visivel caso queira ver outros projetos meus <a href="https://github.com/GabrielGPena793" target="_blank" >Antigo Perfil</a>
 
 ### [Site Portifólio](https://gabrielgpena793.github.io/portfolio_dev/)
 
